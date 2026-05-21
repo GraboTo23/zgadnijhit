@@ -8,7 +8,7 @@ from pydub import AudioSegment
 
 # --- Konfiguracja strony ---
 st.set_page_config(page_title="Zgadnij Hit", page_icon="🎵")
-st.title("🎵 Co to za hit?")
+st.title("🎵 Zgadnij hit")
 
 # --- Funkcje obsługi plików i statystyk ---
 
